@@ -438,7 +438,7 @@ header {
 
 /* ------------FORM SECTION */
 .form_section{
-    background: url("/images/form_bg.png");
+    background: url("images/form_bg.png");
     background-size: cover;
     background-position: center;
     position: relative;
